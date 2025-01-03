@@ -1,0 +1,221 @@
+<map>
+    <mode>Survival</mode>
+    <startTime>300 1200</startTime>
+    <levels start="1" end="50" />
+    <enemyLevel start="1" end="45" />
+    <difficulty start="0.5" end="1.2" />
+    <minions start="5" end="30" />
+    <waveCountdown start="5" end="10" />
+    <recurringWaves>false</recurringWaves>
+
+    <startPosition x="152" y="103" />
+    <add dna="SOSTower" x="32" y="77"/>
+    <add dna="Shaman" x="154" y="104"/>
+    <add dna="WoodTent" x="150" y="98"/>
+    <add dna="Anvil" x="147" y="103"/>
+    <add dna="Furnace" x="146" y="103"/>
+    <add dna="Campfire" x="145" y="107"/>
+    <add dna="Campfire" x="155" y="99"/>
+    <add dna="WoodTable" x="146" y="102"/>
+    <add dna="ArrowTower" x="157" y="109"/>
+    <add dna="ArrowTower" x="157" y="96"/>
+    <add dna="LightedTorch" x="154" y="96"/>
+    <add dna="LightedTorch" x="145" y="96"/>
+    <add dna="LightedTorch" x="142" y="107"/>
+    <add dna="LightedTorch" x="155" y="109"/>
+    <add dna="ArrowTower" x="142" y="96"/>
+    <add dna="ArrowTower" x="142" y="109"/>
+    <add dna="CornerWoodFence" x="140" y="111"/>
+    <add dna="WoodFence" x="140" y="99"/>
+    <add dna="WoodFence" x="140" y="109"/>
+    <add dna="WoodFence" x="140" y="110"/>
+    <add dna="WoodFence" x="140" y="97"/>
+    <add dna="WoodFence" x="140" y="98"/>
+    <add dna="WoodFence" x="140" y="102"/>
+    <add dna="WoodFence" x="140" y="103"/>
+    <add dna="WoodFence" x="140" y="100"/>
+    <add dna="WoodFence" x="140" y="101"/>
+    <add dna="WoodFence" x="140" y="105"/>
+    <add dna="WoodFence" x="140" y="108"/>
+    <add dna="WoodFence" x="140" y="106"/>
+    <add dna="WoodFence" x="140" y="107"/>
+    <add dna="WoodFence" x="140" y="96"/>
+    <add dna="WoodFence" x="140" y="95"/>
+    <add dna="WoodFence" x="159" y="102"/>
+    <add dna="WoodFence" x="159" y="100"/>
+    <add dna="WoodFence" x="159" y="101"/>
+    <add dna="WoodFence" x="159" y="105"/>
+    <add dna="WoodFence" x="159" y="106"/>
+    <add dna="WoodFence" x="159" y="103"/>
+    <add dna="WoodFence" x="159" y="104"/>
+    <add dna="WoodFence" x="159" y="99"/>
+    <add dna="WoodFence" x="159" y="98"/>
+    <add dna="CornerWoodFence" x="140" y="94"/>
+    <add dna="WoodFence" x="141" y="94" rotation="90"/>
+    <add dna="WoodFence" x="142" y="94" rotation="90"/>
+    <add dna="WoodFence" x="143" y="111" rotation="90"/>
+    <add dna="WoodFence" x="142" y="111" rotation="90"/>
+    <add dna="WoodFence" x="141" y="111" rotation="90"/>
+    <add dna="WoodFence" x="146" y="111" rotation="90"/>
+    <add dna="WoodFence" x="145" y="111" rotation="90"/>
+    <add dna="WoodFence" x="144" y="111" rotation="90"/>
+    <add dna="WoodFence" x="149" y="111" rotation="90"/>
+    <add dna="WoodFence" x="148" y="111" rotation="90"/>
+    <add dna="WoodFence" x="147" y="111" rotation="90"/>
+    <add dna="WoodFence" x="155" y="111" rotation="90"/>
+    <add dna="WoodFence" x="154" y="111" rotation="90"/>
+    <add dna="WoodFence" x="153" y="111" rotation="90"/>
+    <add dna="WoodFence" x="152" y="111" rotation="90"/>
+    <add dna="WoodFence" x="150" y="111" rotation="90"/>
+    <add dna="WoodFence" x="146" y="94" rotation="90"/>
+    <add dna="WoodFence" x="145" y="94" rotation="90"/>
+    <add dna="WoodFence" x="144" y="94" rotation="90"/>
+    <add dna="WoodFence" x="149" y="94" rotation="90"/>
+    <add dna="WoodFence" x="148" y="94" rotation="90"/>
+    <add dna="WoodFence" x="147" y="94" rotation="90"/>
+    <add dna="WoodFence" x="152" y="94" rotation="90"/>
+    <add dna="WoodFence" x="151" y="94" rotation="90"/>
+    <add dna="WoodFence" x="150" y="94" rotation="90"/>
+    <add dna="WoodFence" x="153" y="94" rotation="90"/>
+    <add dna="WoodFence" x="155" y="94" rotation="90"/>
+    <add dna="WoodFence" x="154" y="94" rotation="90"/>
+    <add dna="WoodFence" x="156" y="94" rotation="90"/>
+    <add dna="WoodFence" x="156" y="111" rotation="90"/>
+    <add dna="WoodFence" x="157" y="111" rotation="90"/>
+    <add dna="WoodFence" x="158" y="111" rotation="90"/>
+    <add dna="CornerWoodFence" x="159" y="111"/>
+    <add dna="WoodFence" x="159" y="110"/>
+    <add dna="WoodFence" x="159" y="109"/>
+    <add dna="WoodFence" x="159" y="97"/>
+    <add dna="WoodFence" x="159" y="95"/>
+    <add dna="CornerWoodFence" x="159" y="94"/>
+    <add dna="WoodFence" x="158" y="94" rotation="90"/>
+    <add dna="WoodFence" x="157" y="94" rotation="90"/>
+    <add dna="Flag" x="147" y="41"/>
+    <add dna="Flag" x="97" y="86"/>
+    <add dna="Flag" x="34" y="66"/>
+    <add dna="Flag" x="48" y="143"/>
+    <add dna="Flag" x="109" y="152"/>
+    <add dna="Flag" x="66" y="205"/>
+    <add dna="Flag" x="130" y="209"/>
+    <add dna="Flag" x="208" y="202"/>
+    <add dna="Flag" x="183" y="145"/>
+    <add dna="Flag" x="222" y="100"/>
+    <add dna="Flag" x="218" y="43"/>
+
+
+    <logbook>
+        <entry id="Intro">
+            <task on="GameStart" />
+        </entry>
+
+        <entry id="Level1" journal="false" icon="StoneSpear">
+            <task on="Craft" dnas="StoneAxe" />
+            <task on="Craft" dnas="WoodTable" />
+            <task on="Craft" dnas="StoneSpear" />
+            <task on="Dead" steps="10" dnas="EnemySoldier EnemySoldierEquipped" />
+            <task on="Dead" steps="1" dnas="EnemyLeader" />
+        </entry>
+
+        <entry id="Level2" journal="false" icon="Stash">
+            <task on="Craft" dnas="Campfire"/>
+            <task on="Craft" dnas="Stash"/>
+            <task on="Craft" dnas="Map" />
+            <task on="Craft" steps="2" dnas="ArrowTower" />
+            <task on="Craft" steps="10" dnas="WoodFence CornerWoodFence" />
+            <task on="Craft" dnas="LeafShelter" />
+            <task on="Dead" steps="10" dnas="EnemyArcher"/>
+        </entry>
+
+        <entry id="Level3" journal="false" icon="LeafShelter">
+            <task on="Craft" dnas="Furnace" />
+            <task on="Craft" dnas="Anvil" />
+            <task on="Craft" dnas="Machete" />
+            <task on="Craft" dnas="PowerBow" />
+            <task on="Craft" dnas="HealingPotion" />
+            <task on="Craft" steps="10" dnas="WoodWall CornerWoodWall" />
+            <task on="Craft" steps="5" dnas="PitTrap" />
+            <task on="Dead" steps="1" dnas="FireEnemyLeader"/>
+        </entry>
+
+        <entry id="Level4" journal="false" icon="Anvil">
+            <task on="Craft" dnas="WoodTent" />
+            <task on="Craft" dnas="SewingTable"/>
+            <task on="Craft" dnas="LeatherCap" />
+            <task on="Craft" dnas="LeatherCoat" />
+            <task on="Craft" dnas="LeatherBoots" />
+            <task on="Craft" dnas="Antidote" />
+            <task on="Craft" dnas="FireSword" />
+            <task on="Craft" steps="10" dnas="StoneWall CornerStoneWall" />
+        </entry>
+
+        <entry id="Level5" journal="false" icon="CookedFish">
+            <task on="Craft" dnas="FishNet"/>
+            <task on="Craft" dnas="CookedFish" />
+            <task on="Craft" dnas="FireBow" />
+            <task on="Craft" dnas="RabbitTrap" />
+            <task on="Craft" steps="10" dnas="IronWall CornerIronWall" />
+            <task on="Craft" steps="4" dnas="PoisonArrowTower" />
+            <task on="Dead" steps="1" dnas="IceEnemyLeader"/>
+        </entry>
+
+        <entry id="Level6" journal="false" icon="FireTower">
+            <task on="Craft" dnas="TamedHog" />
+            <task on="Craft" dnas="BambooCrop"/>
+            <task on="Craft" dnas="CornCrops" />
+            <task on="Craft" dnas="IceBow" />
+            <task on="Craft" steps="5" dnas="FireTower" />
+        </entry>
+
+        <entry id="Level7" journal="false" icon="Raft">
+            <task on="Craft" steps="4" dnas="StoneArrowTower" />
+            <task on="Craft" dnas="TamedWolf"/>
+            <task on="Craft" dnas="RabbitTrap" />
+            <task on="Craft" dnas="Raft"/>
+            <task on="Craft" steps="5" dnas="IceTower" />
+        </entry>
+
+        <entry id="Level8" journal="false" icon="IceTower">
+            <task on="Craft" dnas="IronAxe"/>
+            <task on="Craft" dnas="IronPick"/>
+            <task on="Craft" dnas="IronHammer"/>
+            <task on="Craft" dnas="LandMine" />
+        </entry>
+
+        <entry id="Level9" journal="false" icon="Monolith">
+            <task on="Craft" steps="1" dnas="StoneHouse" />
+            <task on="Craft" steps="4" dnas="StoneArrowTower" />
+            <task on="Craft" steps="4" dnas="StonePoisonArrowTower" />
+            <task on="Craft" steps="4" dnas="StoneFireTower" />
+            <task on="Craft" steps="4" dnas="StoneIceTower" />
+            <task on="Dead" steps="20" dnas="EnemySoldier EnemySoldierEquipped" />
+            <task on="Dead" steps="20" dnas="EnemyArcher" />
+            <task on="Dead" steps="20" dnas="FireGolem" />
+            <task on="Dead" steps="20" dnas="EnemyHealer" />
+            <task on="Dead" steps="20" dnas="EnemyHeavy"/>
+            <task on="Dead" steps="20" dnas="Blob" />
+            <task on="Dead" steps="20" dnas="Spectre" />
+            <task on="Dead" steps="20" dnas="EnemyLeader" />
+            <task on="Dead" steps="20" dnas="FireEnemyLeader" />
+            <task on="Dead" steps="20" dnas="IceEnemyLeader" />
+        </entry>
+
+        <entry id="Level10" journal="false" icon="Skull">
+            <task on="Craft" steps="10" dnas="IronArrowTower" />
+            <task on="Craft" steps="10" dnas="IronPoisonArrowTower" />
+            <task on="Craft" steps="10" dnas="IronFireTower" />
+            <task on="Craft" steps="10" dnas="IronIceTower" />
+            <task on="Dead" steps="100" dnas="EnemySoldier" />
+            <task on="Dead" steps="100" dnas="EnemySoldierEquipped" />
+            <task on="Dead" steps="100" dnas="EnemyHeavy" />
+            <task on="Dead" steps="100" dnas="Spectre" />
+            <task on="Dead" steps="100" dnas="EnemyHealer" />
+            <task on="Dead" steps="100" dnas="Blob" />
+            <task on="Dead" steps="100" dnas="FireGolem" />
+            <task on="Dead" steps="100" dnas="EnemyLeader" />
+            <task on="Dead" steps="100" dnas="FireEnemyLeader" />
+            <task on="Dead" steps="100" dnas="IceEnemyLeader" />
+        </entry>
+    </logbook>
+
+</map>

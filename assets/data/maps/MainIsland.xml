@@ -1,0 +1,297 @@
+<map>
+    <mode>Story</mode>
+    <startTime>330</startTime>
+    <levels start="1" end="30" />
+    <enemyLevel start="1" end="30" />
+    <difficulty start="0.1" end="1" />
+    <minions start="10" end="20" />
+    <finalWave>
+        <random dna="Demon" x="217" y="248" />
+        <random dna="Demon" x="379" y="444" />
+        <random dna="Demon" x="220" y="243" />
+        <random dna="Demon" x="393" y="184" />
+        <random dna="Demon" x="384" y="383" />
+        <random dna="Demon" x="61" y="462" />
+    </finalWave>
+
+    <add dna="MessageBottle3" x="217" y="248" />
+
+    <startPosition x="216" y="246" />
+    <add dna="PlaneWreckage" x="220" y="243" createWith="1 MedKit 1 Medicine 1 Pipe 1 Gas 1 WaterBottle"/>
+    <add dna="Coconut" x="219" y="245" />
+    <add dna="MessageBottle3" x="217" y="248" />
+
+    <add dna="SOSTower" x="379" y="444" />
+
+    <add dna="Gravel" x="225" y="245" />
+    <add dna="Gravel" x="256" y="245" />
+    <add dna="Gravel" x="229" y="247" />
+    <add dna="Gravel" x="232" y="248" />
+    <add dna="Gravel" x="236" y="250" />
+    <add dna="Gravel" x="237" y="250" />
+    <add dna="Gravel" x="240" y="252" />
+    <add dna="Gravel" x="243" y="254" />
+
+    <!-- 
+    <add dna="EnemySoldier" x="269" y="268" health="0.2" deployed="true" />
+    <add dna="EnemySoldier" x="271" y="256" health="0.3" deployed="true" />
+    <add dna="EnemySoldier" x="253" y="271" health="0.4" deployed="true" />
+    <add dna="EnemySoldier" x="262" y="271" health="0.5" deployed="true" />
+    <add dna="EnemySoldier" x="268" y="253" health="0.2" deployed="true" />
+    <add dna="EnemySoldier" x="260" y="246" health="0.2" deployed="true" /> -->
+
+    <add dna="MessageBottle1" x="384" y="383" />
+    <add dna="MessageBottle2" x="393" y="184" />
+    <add dna="MessageBottle4" x="62" y="462" />
+    <add dna="Skull" x="62" y="460" />
+    <add dna="HumanBones" x="64" y="461" />
+    <add dna="HumanBones" x="61" y="462" />
+
+    <add dna="Flint" x="261" y="257" />
+    <add dna="Stick" x="256" y="255" />
+    <add dna="Vine" x="254" y="256" />
+    <add dna="DeadTree" x="247" y="259" />
+    <add dna="Shaman" x="260" y="261" health="0" />
+    <add dna="Krafteer" x="258" y="255" createWith="1 LightedTorch" />
+    <add dna="Krafteer" x="254" y="259" createWith="1 StoneSpear"/>
+    <add dna="Krafteer" x="257" y="263" createWith="1 Club"/>
+    <add dna="Monolith" x="258" y="259" />
+    <add dna="Stick" x="257" y="259" />
+    <add dna="Straw" x="256" y="259" />
+    <add dna="Boulder" x="242" y="272" />
+    <add dna="WaterSpring" x="261" y="249" />
+    <add dna="Stick" x="262" y="249" />
+
+    <add dna="Player1" x="86" y="86" health="0" />
+    <add dna="Player2" x="47" y="359" health="0"/>
+    <add dna="Player3" x="435" y="458" health="0"/>
+    <add dna="Player4" x="452" y="69" health="0"/>
+
+    <add dna="LightedTorch" x="262" y="254" />
+    <add dna="LightedTorch" x="253" y="263" />
+
+    <add dna="CornerWoodFence" x="251" y="265" />
+    <add dna="WoodFence" x="251" y="260" />
+    <add dna="WoodFence" x="251" y="263" />
+    <add dna="WoodFence" x="251" y="264" />
+    <add dna="WoodFence" x="251" y="258" />
+    <add dna="WoodFence" x="251" y="259" />
+    <add dna="WoodFence" x="251" y="255" />
+    <add dna="WoodFence" x="251" y="254" />
+    <add dna="CornerWoodFence" x="251" y="253" />
+    <add dna="WoodFence" x="252" y="253" rotation="90"/>
+    <add dna="WoodFence" x="253" y="253" rotation="90"/>
+    <add dna="WoodFence" x="254" y="265" rotation="90"/>
+    <add dna="WoodFence" x="253" y="265" rotation="90"/>
+    <add dna="WoodFence" x="252" y="265" rotation="90"/>
+    <add dna="WoodFence" x="260" y="265" rotation="90"/>
+    <add dna="WoodFence" x="261" y="265" rotation="90"/>
+    <add dna="WoodFence" x="262" y="265" rotation="90"/>
+    <add dna="CornerWoodFence" x="263" y="265" />
+    <add dna="WoodFence" x="263" y="264" />
+    <add dna="WoodFence" x="263" y="263" />
+    <add dna="WoodFence" x="263" y="255" />
+    <add dna="WoodFence" x="263" y="254" />
+    <add dna="CornerWoodFence" x="263" y="253" />
+    <add dna="WoodFence" x="262" y="253" rotation="90"/>
+    <add dna="WoodFence" x="261" y="253" rotation="90"/>
+
+    <add dna="Gravel" x="257" y="252" />
+    <add dna="Gravel" x="257" y="251" />
+    <add dna="Gravel" x="257" y="250" />
+    <add dna="Gravel" x="257" y="249" />
+    <add dna="Gravel" x="254" y="249" />
+    <add dna="Gravel" x="255" y="249" />
+    <add dna="Gravel" x="254" y="248" />
+    <add dna="Gravel" x="254" y="247" />
+    <add dna="Gravel" x="254" y="244" />
+    <add dna="Gravel" x="254" y="243" />
+    <add dna="Gravel" x="254" y="242" />
+
+    <add dna="ActivePortal" x="277" y="233" />
+    <add dna="Portal1" x="242" y="231" />
+    <add dna="Portal2" x="225" y="260" />
+    <add dna="Portal3" x="250" y="285" />
+    <add dna="Portal4" x="281" y="269" />
+
+    <logbook>
+        <entry id="SOS">
+            <task on="GameStart" />
+        </entry>
+        <entry id="BasicSurvival">
+            <task on="Consume" dnas="Coconut" highlight="true"/>
+        </entry>
+        <entry id="TheWreckage" icon="PlaneWreckage">
+            <task on="View" dnas="PlaneWreckage" highlight="true"/>
+            <task on="Pick" dnas="MedKit" highlight="true" highlightDna="PlaneWreckage"/>
+            <task on="Pick" dnas="Medicine" highlight="true" highlightDna="PlaneWreckage"/>
+            <task on="Pick" dnas="Pipe" highlight="true" highlightDna="PlaneWreckage"/>
+            <task on="Pick" dnas="Gas" highlight="true" highlightDna="PlaneWreckage"/>
+            <task on="Pick" dnas="WaterBottle" highlight="true" highlightDna="PlaneWreckage"/>
+        </entry>
+        <entry id="TheShaman">
+            <task on="Heal" dnas="Shaman" highlight="true"/>
+        </entry>
+        <entry id="ToolsOfStone">
+            <task on="Pick" steps="2" dnas="Stick" highlight="true"/>
+            <task on="Pick" steps="2" dnas="Flint" highlight="true"/>
+            <task on="Pick" steps="2" dnas="Vine" highlight="true" highlightDna="VineTree"/>
+            <task on="Craft" dnas="StoneAxe" highlight="true"/>
+            <task on="Dead" dnas="DeadTree DeadPineTree DeadPalmTree" highlight="true"/>
+            <task on="Pick" dnas="WoodLog" highlight="true"/>
+            <task on="Craft" dnas="WoodTable" highlight="true"/>
+            <task on="Craft" dnas="StoneSpear" highlight="true" highlightDna="WoodTable" />
+        </entry>
+        <entry id="TheMonolith" icon="Monolith">
+            <task on="WaveStart" highlight="true" highlightDna="Monolith" icon="Monolith" />
+            <task on="Dead" dnas="EnemyLeader" />
+            <task on="Pick" dnas="PowerGem" highlight="true"/>
+        </entry>
+        <entry id="FourTowers" icon="ArrowTower">
+            <task on="Dead" steps="1" dnas="BambooTree" highlight="true"/>
+            <task on="Pick" steps="1" dnas="Bamboo" />
+            <task on="Craft" steps="1" dnas="Arrow" highlight="true" highlightDna="WoodTable"/>
+            <task on="Craft" steps="1" dnas="ArrowTower" highlight="true" />
+        </entry>
+        <entry id="Hunter" icon="Campfire">
+            <task on="Dead" dnas="Hog Rabbit" highlight="true"/>
+            <task on="Dead" dnas="DeadRabbit DeadWolf DeadSnake DeadAlligator DeadBird DeadPuma DeadHog" highlight="true"/>
+            <task on="Pick" dnas="Meat" highlight="true"/>
+            <task on="Craft" dnas="Campfire" highlight="true"/>
+            <task on="Craft" dnas="CookedMeat" icon="Campfire" highlight="true" highlightDna="Campfire"/>
+            <task on="Consume" dnas="CookedMeat" highlight="true"/>
+            <task on="Craft" dnas="Stash" highlight="true"/>
+        </entry>
+        <entry id="Map">
+            <task on="Pick" dnas="Fur" />
+            <task on="Pick" dnas="Bones" />
+            <task on="Craft" dnas="Charcoal" />
+            <task on="Craft" dnas="Map" />
+        </entry>
+        <entry id="Mining">
+            <task on="Craft" dnas="StonePick" />
+            <task on="Dead" dnas="Boulder" highlight="true"/>
+            <task on="Pick" dnas="Stone" />
+            <task on="Dead" dnas="IronMine" highlight="true"/>
+            <task on="Pick" dnas="IronOre" />
+        </entry>
+        <entry id="Blacksmith">
+            <task on="Craft" dnas="Furnace" />
+            <task on="Craft" steps="6" dnas="IronIngot" />
+            <task on="Craft" dnas="Anvil" />
+            <task on="Craft" dnas="Machete" />
+            <task on="Craft" dnas="IronAxe" />
+            <task on="Craft" dnas="IronPick" />
+            <task on="Craft" dnas="IronHammer" />
+        </entry>
+        <entry id="Sewing" icon="SewingTable">
+            <task on="Craft" dnas="SewingTable" />
+            <task on="Craft" dnas="LeatherCap" />
+            <task on="Craft" dnas="LeatherCoat" />
+            <task on="Craft" dnas="LeatherBoots" />
+        </entry>
+        <entry id="FirstExpedition">
+            <task on="Link" dnas="Krafteer" />
+            <task on="Dead" dnas="Palmtree" highlight="true"/>
+            <task on="Pick" dnas="PalmLeaf" />
+            <task on="Craft" dnas="LeafShelter" />
+        </entry>
+        <entry id="PoisonTowers">
+            <task on="Dead" dnas="Spider" />
+            <task on="Pick" dnas="DeadSpider" />
+            <task on="Craft" dnas="PoisonArrow" />
+            <task on="Craft" dnas="PoisonArrowTower" />
+        </entry>
+        <entry id="FantasticWeapons">
+            <task on="Craft" dnas="HealingPotion" />
+            <task on="Craft" dnas="Antidote" />
+            <task on="Craft" dnas="PowerBow" />
+        </entry>
+        <entry id="ThePortals">
+            <task on="Craft" dnas="FirstPortal" highlight="true" highlightDna="Portal1" />
+        </entry>
+        <entry id="TheSunsetting">
+            <task on="Craft" dnas="Raft" />
+            <task on="Heal" dnas="Player1" />
+        </entry>
+        <entry id="FortressOfStone">
+            <task on="Craft" steps="20" dnas="StoneWall CornerStoneWall" />
+            <task on="Craft" steps="2" dnas="StoneArrowTower" />
+            <task on="Craft" dnas="StoneHouse" />
+        </entry>
+        <entry id="Farming">
+            <task on="Craft" dnas="Plantation"/>
+            <task on="Craft" dnas="CornCrops"/>
+            <task on="Craft" dnas="TamedHog"/>
+            <task on="Craft" dnas="FertilizedCornCrops"/>
+        </entry>
+        <entry id="SouthernDesert">
+            <task on="Heal" dnas="Player2" />
+        </entry>
+        <entry id="HellfireManace">
+            <task on="Dead" dnas="FireEnemyLeader" />
+            <task on="Pick" dnas="FireGem" />
+        </entry>
+        <entry id="FightFireWithFire">
+            <task on="Craft" steps="2" dnas="FireTower" />
+            <task on="Craft" dnas="FireBow" />
+            <task on="Craft" dnas="FireSword" />
+        </entry>
+        <entry id="TheFirePortal">
+            <task on="Craft" dnas="SecondPortal" highlight="true" highlightDna="Portal2"/>
+        </entry>
+        <entry id="TheRisingSun">
+            <task on="Heal" dnas="Player3" />
+        </entry>
+        <entry id="NorthernBlizzard">
+            <task on="Heal" dnas="Player4" />
+        </entry>
+        <entry id="LoneWolves">
+            <task on="Craft" dnas="TamedWolf" />
+        </entry>
+        <entry id="Icebreaker">
+            <task on="Dead" dnas="IceEnemyLeader" />
+            <task on="Pick" dnas="IceGem" />
+        </entry>
+        <entry id="FreezeThem">
+            <task on="Craft" steps="3" dnas="IceTower" />
+            <task on="Craft" dnas="IceBow" />
+        </entry>
+        <entry id="TheIronFortress">
+            <task on="Craft" steps="10" dnas="IronWall CornerIronWall" />
+            <task on="Craft" steps="1" dnas="IronArrowTower" />
+            <task on="Craft" steps="1" dnas="IronPoisonArrowTower" />
+            <task on="Craft" steps="1" dnas="IronFireTower" />
+            <task on="Craft" steps="1" dnas="IronIceTower" />
+        </entry>
+        <entry id="TheFrozenPortal">
+            <task on="Craft" dnas="ThirdPortal" highlight="true" highlightDna="Portal3" />
+        </entry>
+        <entry id="TheGatekeeperPortal" icon="DiamondStar">
+            <task on="Dead" dnas="EnemyBoss" />
+            <task on="Pick" dnas="DiamondStar" />
+            <task on="Craft" dnas="LastPortal" highlight="true" highlightDna="Portal4"/>
+        </entry>
+        <entry id="TheMorningStar" level="30">
+            <task on="Craft" dnas="MorningStar" />
+        </entry>
+        <entry id="TheHope" icon="ActiveMonolith" level="30">
+            <task on="Dead" dnas="Monolith" />
+        </entry>
+        <entry id="TheEnd" icon="Demon" level="30">
+            <task on="Dead" steps="100" dnas="EnemySoldier" />
+            <task on="Dead" steps="100" dnas="EnemySoldierEquipped" />
+            <task on="Dead" steps="100" dnas="EnemyHeavy" />
+            <task on="Dead" steps="10" dnas="Spectre" />
+            <task on="Dead" steps="10" dnas="EnemyHealer" />
+            <task on="Dead" steps="10" dnas="FireGolem" />
+            <task on="Dead" steps="10" dnas="Blob" />
+            <task on="Dead" steps="10" dnas="EnemyLeader" />
+            <task on="Dead" steps="10" dnas="FireEnemyLeader" />
+            <task on="Dead" steps="10" dnas="IceEnemyLeader" />
+            <task on="Dead" steps="10" dnas="EnemyBoss" />
+            <task on="Dead" steps="1" dnas="Demon" />
+        </entry>
+    </logbook>
+
+</map>

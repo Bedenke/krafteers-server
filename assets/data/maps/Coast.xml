@@ -1,0 +1,18 @@
+<map>
+    <mode>Story</mode>
+    <startTime>600</startTime>
+    <startPosition x="15" y="22"/>
+    <startWith>1 LightedTorch 1 StoneSpear 1 StoneAxe 1 Map</startWith>
+    <levels start="1" end="10" />
+    <enemyLevel start="2" end="4" />
+    <difficulty start="0.3" end="1" />
+    <minions start="10" end="25" />
+    <excludeDnas>Kreep</excludeDnas>
+
+    <add dna="Castaway" x="18" y="24" health="1" stamina="1" />
+    <add dna="Portal" x="50" y="10" />
+    <add dna="Portal" x="54" y="22" />
+    <add dna="Portal" x="55" y="36" />
+    <add dna="Portal" x="56" y="46" />
+    <add dna="Portal" x="50" y="55" />
+</map>

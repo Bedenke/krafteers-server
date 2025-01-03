@@ -1,0 +1,108 @@
+<map>
+    <mode>Battle</mode>
+    <startTime>300 1200</startTime>
+    <startWith>1 Bow 10 Arrow 1 Machete 1 MedKit</startWith>
+    <firstWaveCountdown>10</firstWaveCountdown>
+    <levels start="5" end="20" />
+    <difficulty start="0.1" end="0.5" />
+    <minions start="5" end="10" />
+
+
+    <add dna="CornerStoneWall" x="30" y="39" />
+    <add dna="StoneWall" x="31" y="34" />
+    <add dna="StoneWall" x="31" y="35" />
+    <add dna="CornerStoneWall" x="31" y="36" />
+    <add dna="CornerStoneWall" x="30" y="36" />
+    <add dna="StoneWall" x="30" y="37" />
+    <add dna="StoneWall" x="30" y="38" />
+    <add dna="StoneWall" x="31" y="32" />
+    <add dna="StoneWall" x="31" y="33" />
+    <add dna="StoneWall" x="31" y="31" />
+    <add dna="CornerStoneWall" x="31" y="30" />
+    <add dna="CornerStoneWall" x="30" y="30" />
+    <add dna="StoneWall" x="30" y="29" />
+    <add dna="StoneWall" x="30" y="28" />
+    <add dna="CornerStoneWall" x="30" y="27" />
+    <add dna="StoneWall" x="31" y="27" rotation="90"/>
+    <add dna="StoneWall" x="32" y="27" rotation="90"/>
+    <add dna="CornerStoneWall" x="33" y="27" />
+    <add dna="CornerStoneWall" x="33" y="28" />
+    <add dna="StoneWall" x="34" y="28" rotation="90"/>
+    <add dna="StoneWall" x="35" y="28" rotation="90"/>
+    <add dna="StoneWall" x="36" y="28" rotation="90"/>
+    <add dna="CornerStoneWall" x="34" y="37" />
+    <add dna="StoneWall" x="34" y="38" />
+    <add dna="CornerStoneWall" x="34" y="39" />
+    <add dna="StoneWall" x="33" y="39" rotation="90"/>
+    <add dna="StoneWall" x="32" y="39" rotation="90"/>
+    <add dna="StoneWall" x="31" y="39" rotation="90"/>
+    <add dna="StoneWall" x="35" y="37" rotation="90"/>
+    <add dna="StoneWall" x="36" y="37" rotation="90"/>
+    <add dna="CornerStoneWall" x="37" y="37" />
+    <add dna="StoneWall" x="37" y="38" />
+    <add dna="CornerStoneWall" x="37" y="39" />
+    <add dna="StoneWall" x="38" y="39" rotation="90"/>
+    <add dna="StoneWall" x="39" y="39" rotation="90"/>
+    <add dna="StoneWall" x="40" y="39" rotation="90"/>
+    <add dna="CornerStoneWall" x="41" y="39" />
+    <add dna="StoneWall" x="41" y="38" />
+    <add dna="StoneWall" x="41" y="37" />
+    <add dna="CornerStoneWall" x="41" y="36" />
+    <add dna="CornerStoneWall" x="40" y="36" />
+    <add dna="StoneWall" x="40" y="35" />
+    <add dna="StoneWall" x="40" y="34" />
+    <add dna="ClosedDoor" x="40" y="33"/>
+    <add dna="StoneWall" x="40" y="32" />
+    <add dna="StoneWall" x="40" y="31" />
+    <add dna="CornerStoneWall" x="40" y="30" />
+    <add dna="CornerStoneWall" x="41" y="30" />
+    <add dna="StoneWall" x="41" y="29" />
+    <add dna="StoneWall" x="41" y="28" />
+    <add dna="CornerStoneWall" x="41" y="27" />
+    <add dna="StoneWall" x="40" y="27" rotation="90"/>
+    <add dna="StoneWall" x="39" y="27" rotation="90"/>
+    <add dna="CornerStoneWall" x="38" y="27" />
+    <add dna="CornerStoneWall" x="38" y="28" />
+    <add dna="StoneWall" x="37" y="28" rotation="90"/>
+    <add dna="ArrowTower StoneArrowTower PoisonArrowTower FireTower StoneFireTower IceTower StoneIceTower" x="40" y="28" chance="50"/>
+    <add dna="ArrowTower StoneArrowTower PoisonArrowTower FireTower StoneFireTower IceTower StoneIceTower" x="31" y="28" chance="50"/>
+    <add dna="ArrowTower StoneArrowTower PoisonArrowTower FireTower StoneFireTower IceTower StoneIceTower" x="40" y="38" chance="50"/>
+    <add dna="ArrowTower StoneArrowTower PoisonArrowTower FireTower StoneFireTower IceTower StoneIceTower" x="31" y="38" chance="50"/>
+    <add dna="Gravel" x="35" y="32" />
+    <add dna="Gravel" x="35" y="33" />
+    <add dna="Gravel" x="36" y="33" />
+    <add dna="Gravel" x="37" y="33" />
+    <add dna="Gravel" x="38" y="33" />
+    <add dna="Gravel" x="39" y="33" />
+
+    <add dna="Portal" x="24" y="17" />
+    <add dna="Portal" x="18" y="34" />
+    <add dna="Portal" x="49" y="20" />
+    <add dna="Portal" x="50" y="34" />
+    <add dna="Portal" x="43" y="45" />
+    <add dna="Portal" x="29" y="45" />
+
+    <add dna="WoodTable" x="34" y="31"/>
+    <add dna="Anvil" x="35" y="30"/>
+    <add dna="Furnace" x="36" y="31"/>
+    <add dna="CampFire" x="36" y="32"/>
+
+
+    <add dna="Crate" x="38" y="31" chance="80" />
+    <add dna="Crate" x="49" y="26" chance="80" />
+    <add dna="Crate" x="36" y="18" chance="80" />
+    <add dna="Crate" x="48" y="41" chance="80" />
+    <add dna="Crate" x="22" y="26" chance="80" />
+    <add dna="Crate" x="34" y="30" chance="80" />
+    <add dna="Crate" x="39" y="35" chance="80" />
+    <add dna="Crate" x="34" y="36" chance="80" />
+    <add dna="Crate" x="18" y="42" chance="80" />
+    <add dna="Crate" x="36" y="46" chance="80" />
+
+
+    <add dna="BattleKrafteer" x="35" y="36" health="1" stamina="1" createWith="1 NPCBow" />
+    <add dna="LeafShelter" x="34" y="33" />
+
+    <objective id="LastWave" on="WaveComplete" wave="true" icon="Krafteer"/>
+    <objective id="Battle" on="GameOverWin" icon="Krafteer"/>
+</map>

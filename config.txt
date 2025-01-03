@@ -1,0 +1,8 @@
+start MainIsland 9101
+pvp true
+frame-rate 16
+max-players 16
+title My Krafteers Server
+difficulty 1
+log-level info
+net stats true
