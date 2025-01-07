@@ -6,6 +6,7 @@ Requirements:
 - [Java Runtime](https://www.java.com/en/download/manual.jsp)
 - [Port Forwarding Guide](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide) Make sure your [Port] is not blocked by your router
 - [Krafteers game](https://krafteers.com)
+- [Krafteers server](https://github.com/Bedenke/krafteers-server/archive/refs/tags/v16.1.zip)
 
 ## Running
 
