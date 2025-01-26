@@ -12,7 +12,7 @@ Requirements:
 
 To run the server: `java -jar krafteers.jar`
 
-When running you should see your server listed on the **Join Game** section in the game's main menu, with a 🌎 icon.
+When running you should see your server listed on the **Join Game** section in the game's main menu, with a 🌍 icon.
 
 ## Configurations
 
